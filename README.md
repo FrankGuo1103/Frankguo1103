@@ -6,7 +6,7 @@
 
 - 👯 Graduated from **NCKUMSE in 2016**
 
-- 👨‍💻 Here's my email: [frankguo1103@gmail.com](frankguo1103@gmail.com)
+- 👨‍💻 Here's my email: [frankguo1103@gmail.com]
 
 
 <p align="left">
