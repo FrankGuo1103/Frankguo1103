@@ -1,12 +1,14 @@
 
 <h1>Hi 👋, I'm Frank</h1>
-<h3>A process engineer and coding beginner</h3>
+<h4>A process engineer and coding beginner</h4>
 
-- 🌱 I’m currently learning **coding (HTML, CSS and Javascript).**
 
-- 👯 Graduated from **NCKUMSE in 2016**
 
-- 👨‍💻 Here's my email: [frankguo1103@gmail.com]
+- 🌱 I’m currently learning coding (HTML, CSS and Javascript).
+
+- 👯 Graduated from NCKUMSE in 2016
+
+- 👨‍💻 Here's my email: frankguo1103@gmail.com
 
 
 <p align="left">
